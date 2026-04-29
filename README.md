@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PETRA – Cloud-Based Petition Management & Monitoring System
 
 > An AI-powered petition management platform that classifies petitions using NLP, assigns priority based on severity, and provides real-time status tracking for administrators.
@@ -53,3 +54,6 @@ npm run dev
 ## 📄 License
 
 MIT
+=======
+# Petra
+>>>>>>> 1a4caca06a787f2c92f5964d5802d1c15c1585fb
